@@ -6,7 +6,7 @@ These will be organized starting with the study plan challenges at the top with 
 
 ---
 
-[30 Days of JavaScript](#30 Days of JavaScript)
+[30 Days of JavaScript](#30-days-of-javascript)
 
 ## 30 Days of JavaScript
 
